@@ -33,7 +33,7 @@ public class NewJPanel extends javax.swing.JPanel {
     public void ChageText(){
         jLabel1.setText(formattedDate);
         jLabel1.setVisible(true);
-        jLabel1.setBackground(Color.yellow);
+        
     }
     
     
